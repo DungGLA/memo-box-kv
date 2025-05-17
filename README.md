@@ -1,1 +1,1 @@
-# memo-box-kv
+# An In-memory key-value storage
